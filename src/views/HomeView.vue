@@ -1,6 +1,6 @@
 <script setup>
 import { ref } from 'vue';
-import AppHeaderVue from '../components/icons/AppHeader.vue';
+import AppHeaderVue from '../components/AppHeader.vue'
 import AppListVue from '../components/AppList.vue';
 import AppCardVue from '../components/AppCard.vue';
 import AppFooterVue from "../components/AppFooter.vue";

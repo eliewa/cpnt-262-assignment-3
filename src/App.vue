@@ -1,6 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from "vue-router";
-import AppNavBarVue from "./components/icons/AppNavBar.vue";
+import AppNavBarVue from "../src/components/AppNavBar.vue"
 </script>
 
 <template>
